@@ -10,4 +10,4 @@ about: 码农一枚 vim爱好者 js工程师 现住杭州
 ---
 以下开发小文
 
-- [如何调试nodejs](如何调试nodejs.md)
+- [如何调试nodejs](http://flyovergu.gitbooks.io/web/content/how%20to%20debug%20nodejs.html)
