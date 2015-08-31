@@ -4,10 +4,10 @@
 那就是用mouseenter和mouseleave或者mouseover和mouseout模拟。  
 
 ## 实现
-[mouseenter](http://api.jquery.com/mouseenter/): 当鼠标**进入**被绑定元素的时候触发此事件
-[mouseleave](http://api.jquery.com/mouseleave/): 当鼠标**离开**被绑定元素的时候触发此事件
-[mouseover](http://api.jquery.com/mouseover/): 当鼠标**进入**被绑定元素的时候触发此事件 **对其子元素同样有效果**
-[mouseout](http://api.jquery.com/mouseout/): 当鼠标**离开**被绑定元素的时候触发此事件 **对其子元素同样有效果**
+[mouseenter](http://api.jquery.com/mouseenter/): 当鼠标**进入**被绑定元素的时候触发此事件  
+[mouseleave](http://api.jquery.com/mouseleave/): 当鼠标**离开**被绑定元素的时候触发此事件  
+[mouseover](http://api.jquery.com/mouseover/): 当鼠标**进入**被绑定元素的时候触发此事件 **对其子元素同样有效果**  
+[mouseout](http://api.jquery.com/mouseout/): 当鼠标**离开**被绑定元素的时候触发此事件 **对其子元素同样有效果**  
 
 看一个 [demo](http://jsfiddle.net/flyover/yq46rm5n/1/)  
 看代码:  
