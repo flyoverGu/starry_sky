@@ -44,3 +44,4 @@ dog.say.apply(cat);
 // 结果
 "is dog"
 ````
+
