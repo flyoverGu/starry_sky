@@ -11,3 +11,4 @@
 介绍一些不太热门，但是非常好用的插件。
 
 1. (ctrlP)[https://github.com/kien/ctrlp.vim] 在指定目录中快速查找文件，并且打开文件。支持批量。
+2. (JsDoc)[https://github.com/heavenshell/vim-jsdoc] 生成函数文档，支持最新es 6函数。
