@@ -12,3 +12,4 @@
 
 1. (ctrlP)[https://github.com/kien/ctrlp.vim] 在指定目录中快速查找文件，并且打开文件。支持批量。
 2. (JsDoc)[https://github.com/heavenshell/vim-jsdoc] 生成函数文档，支持最新es 6函数。
+3. (vimSignature)[https://github.com/kshenoy/vim-signature] 加强mark插件，超级强大。还支持文件间跳转。
