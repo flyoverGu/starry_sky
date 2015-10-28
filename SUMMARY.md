@@ -8,4 +8,4 @@
 * [vim 小技巧](vim 小技巧.md)
 * [简单html模版实现](简单html模版实现.md)
 * [理解generator函数中的next参数](理解generator函数.md)
-* [各种clone方法](各种clone方法.md)
+* [get各种clone方法](get各种clone方法.md)
